@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CptPrice743
 - 👀 I’m interested in Coding.
-- 🌱 I’m currently learning C.
+- 🌱 I’m currently learning Web Dev.
 - 📫 How to reach me vyom.uchat@gmail.com
 
 <!---
